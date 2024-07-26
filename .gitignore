@@ -1,0 +1,5 @@
+Scripts/*
+!Scripts/usgs_to_swot_tutorial.ipynb
+
+Data/*
+Figures/*
